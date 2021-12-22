@@ -1,0 +1,23 @@
+{
+    "name": "my-crappy-red-theme",
+    "displayName": "Light Red Theme",
+    "author": {"name": "MadDeCoDeR"},
+    "publisher": "MadDeCoDeR",
+    "description": "A simple red & light theme for Visual Studio code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light Red",
+                "uiTheme": "vs",
+                "path": "./themes/Crappy-Red-color-theme.json"
+            }
+        ]
+    }
+}
