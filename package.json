@@ -4,7 +4,7 @@
     "author": {"name": "MadDeCoDeR"},
     "publisher": "MadDeCoDeR",
     "description": "A simple red & light theme for Visual Studio code",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "repository": {"url": "https://github.com/MadDeCoDeR/Light-Red-Theme-for-vs-code"},
     "engines": {
         "vscode": "^1.39.0"
